@@ -26,6 +26,6 @@ You can create your original flashcards
 
 # Author
 
-* 作成者 : AbsoluteZero
+* 作成者 : Sydney
 * 所属  
 * E-mail
